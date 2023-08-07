@@ -1,6 +1,6 @@
 # Simple WordPress Portfolio Website
 
-![Portfolio Website](link-to-screenshot.png)
+![Portfolio Website](https://github.com/rimadjamaa/WP_Protofolio/blob/main/wp-content/Opera%20Instantané_2023-08-07_222347_ten-carton.localsite.io.png)
 
 This is a simple portfolio website built with WordPress using a free theme and a custom template created from scratch with Elementor page builder. The website showcases a collection of projects, achievements, and information about the website owner's skills and experience.
 
